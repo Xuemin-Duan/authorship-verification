@@ -1,0 +1,1 @@
+put the 'pan20-authorship-verification-training-small-truth.jsonl' and 'pan20-authorship-verification-training-small.jsonl' two files into this folder. Dataset can be dowloaded on https://pan.webis.de/data.html#pan20-authorship-verification
