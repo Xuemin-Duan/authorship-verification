@@ -2,7 +2,7 @@
 Authorship Verification 2020
 - University of Copenhagen & IT and Cognition & Language Processing 2
 
-This repository contains the source code used to generate my model for the PAN 2020 authorship verification shared task: https://pan.webis.de/clef20/pan20-web/author-identification.html .
+This repository contains the scripts used to generate the models for the PAN 2020 authorship verification shared task: https://pan.webis.de/clef20/pan20-web/author-identification.html .
 This project is intented to decide whether two texts have been written by the same author based on comparing the texts' writing styles. I developed all scripts in Jupyter Notebooks.
 ## Running the program:
 - put the 'pan20-authorship-verification-training-small-truth.jsonl' and 'pan20-authorship-verification-training-small.jsonl' two files into data folder. Dataset can be dowloaded on https://pan.webis.de/data.html#pan20-authorship-verification
